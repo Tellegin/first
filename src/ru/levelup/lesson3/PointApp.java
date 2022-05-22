@@ -17,3 +17,4 @@ public class PointApp {
         System.out.println("P2: x = " + p2.x);
 
 }
+    }
