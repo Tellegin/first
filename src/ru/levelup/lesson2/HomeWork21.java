@@ -12,6 +12,7 @@ public class HomeWork21 {
             System.out.println("Вы ввели нечетное число");
         } else {
             System.out.println("Вы ввели четное число");
+            op.close();
         }
 
     }
